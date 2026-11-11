@@ -1,0 +1,8 @@
+username-checker
+availability
+github
+npm
+pypi
+docker-hub
+gitlab
+cli
